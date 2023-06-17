@@ -9,5 +9,5 @@ def countdown(t):
         t -= 1
     print('专注时间结束！')
 
-# 设定专注时间为 25 分钟
+# 设定专注时间为 25 分钟-test
 countdown(25*60)
